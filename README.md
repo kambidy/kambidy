@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I am Ryan Mulwa</h1>
 <h3 align="center">I'm a Full-Stack Software Developer </h3>
-<br></br>
 <h3 align="center">Engineering student at Holberton School</h3>
 
 - I’m currently focusing on **Backend**
